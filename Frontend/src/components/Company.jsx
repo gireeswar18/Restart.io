@@ -18,7 +18,7 @@ const Company = ({ cName }) => {
 
   const fetchData = async () => {
 
-    const back = "http://localhost:3000";
+    const back = "https://restart-io-backend.onrender.com";
     setLoading(true);
     console.log("Fetching data...");
     axios
