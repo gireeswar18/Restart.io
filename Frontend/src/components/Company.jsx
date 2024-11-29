@@ -66,7 +66,7 @@ const Company = ({ cName }) => {
         <>
           <Navbar />
           <div
-            className={`flex flex-col space-y-4 px-[32px] md:px-[15%] pt-[12%] lg:pt-[5%] "
+            className={`flex flex-col space-y-4 px-[32px] md:px-[15%] pt-[18%] md:pt-[18%] lg:pt-[5%] "
             }`}
           >
             {showSearch && (
