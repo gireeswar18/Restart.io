@@ -130,7 +130,7 @@ const Home = () => {
             >
               <IoClose size={24} />
             </button>
-            <div className="pt-4 flex flex-col items-center justify-center w-96 md:w-48">
+            <div className="pt-4 flex flex-col items-center justify-center w-48 md:w-96">
               <p className="font-bold text-lg">Check these </p>
 
               <div className="flex flex-col space-y-3 pt-3 w-full">
